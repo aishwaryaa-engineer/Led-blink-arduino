@@ -1,4 +1,4 @@
-# Led-blink-arduino
+# Led-blinking using morse code logic using arduino
 Beginner embedded systems project - Controlling LED blink patterns using Arduino Uno. Demonstrates GPIO programming and timing control in C.
 ## LIVE STIMULATION
 >>[click here to see SOS morse code working live! "https://wokwi.com/projects/459291723584803841"]
